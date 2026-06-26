@@ -1,0 +1,7 @@
+/build/
+/dist/
+/render_laporan/
+nbproject/private/
+*.class
+~$*
+~WRL*.tmp
